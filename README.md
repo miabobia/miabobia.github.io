@@ -5,6 +5,7 @@
 
 ### IDEAS:
 - wikipedia philosophy pathfinder. local version and web version
+- game jam with Heather
 - ytp sentence splicer
 - video editor
 - data mosher
