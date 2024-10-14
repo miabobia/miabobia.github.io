@@ -11,7 +11,7 @@
 - data mosher
 - collage creator
 - discord media server for music bots ?? free storage ??
-- 
+- desktop mood ring that uses natural language processing 
 
 
 ### Trying to get back into reading:
