@@ -9,6 +9,7 @@
 - ytp sentence splicer
 - video editor
 - data mosher
+    - https://www.art-science.org/journal/v13n3/v13n3pp154/artsci-v13n3pp154.pdf
 - collage creator
 - discord media server for music bots ?? free storage ??
 - desktop mood ring that uses natural language processing 
