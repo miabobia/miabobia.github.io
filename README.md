@@ -13,7 +13,7 @@
 - collage creator
 - discord media server for music bots ?? free storage ??
 - desktop mood ring that uses natural language processing 
-
+- https://api.arcade.academy/en/latest/index.html learning this 2D library ?? 👀
 
 ### Trying to get back into reading:
 - [Good Old Neon](https://sdavidmiller.com/octo/files/no_google2/GoodOldNeon.pdf) - finished
