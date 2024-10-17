@@ -29,5 +29,6 @@
     
 - Next book(s)
     - Oblivion: Stories - DFW
+    - When The Caged Bird Sings - Maya Angelou 
     - Misery - Stephen King
     - 100 Years War on Palestine - Rashid Khalidi
