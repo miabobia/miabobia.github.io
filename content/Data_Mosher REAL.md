@@ -73,4 +73,5 @@ def resolve_path(path_str: str) -> bool:
 3. saving meta_data to the output video. I would like a string in the meta_data to show exactly what arguments were used to create the video. The challenge with this idea would be making sure no user information is included if videos are shared. 
 4. implement youtube-dl library so youtube links to videos can be provided instead of local video paths
 5. implement pytest. I mainly want to use this to test out all the system arguments work consistently. Also to test out that all the cleanup on exit works properly
-![["https://miabobia.github.io/video_hq.mp4"]]
+![[assets/video_hq.mp4]]
+![[https://miabobia.github.io/video_hq.mp4]]
