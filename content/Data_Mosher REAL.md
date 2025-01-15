@@ -76,3 +76,4 @@ def resolve_path(path_str: str) -> bool:
 ![[videos/screencast_test.mp4]]
 ![[https://miabobia.github.io/content/videos/screencast_test.mp4]]
 ![[https://github.com/miabobia/miabobia.github.io/blob/v4/content/videos/screen_cast_test.mp4]]
+![[https://miabobia.github.io/screen_cast_test.mp4]]
