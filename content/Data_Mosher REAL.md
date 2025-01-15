@@ -1,25 +1,31 @@
-#data_mosher #image_processing #video_filters #glitch_art #python #open_cv #PIL 
-
-# Introduction
-
-- I had seen data moshing videos online and was interested in them. Through social media i found this technical paper on data moshing algorithms
-- link to datamoshing article
-- created software that takes in a series of video and produces a single video with a datamoshing glitch art effect
-- technologies:
-	- opencv
-	- PIL
+---
+title: Data Mosher
+draft: false
+tags:
+    - art
+	- image-processing
+	- FFMPEG
+	- open-cv
 	- python
-	- argparse
-	- pathlib
-	- os
+	- PIL
+---
 
-# Problem Statement
+# What is Data Moshing?
+Data Moshing is a video effect that creates a trippy 'glitchy' effect. In very reductive terms, data moshing changes the transition from one video frame to another. Effectively bleeding pixels from one frame to subsequent frames
+![[https://i.kym-cdn.com/photos/images/newsfeed/000/637/054/8c6.gif]]
 
-- I found this paper incredibly interesting, but I found it was too advanced for my current skillset with video and image processing. 
+# I want to do Data Moshing !
+- I had seen data moshing videos online and was interested in them. Through social media I found this [technical paper](https://www.art-science.org/journal/v13n3/v13n3pp154/artsci-v13n3pp154.pdf) on data moshing algorithms
+- I found this paper incredibly interesting, but I it was too advanced for my current skillset with video and image processing. 
 - Glitch art and data moshing in particular I think is a very beautiful and underrated art form. I still wanted to create a 'data moshing' effect
 - Friend suggested that instead of preprocessing and analyzing video frames like the paper suggest I try post processing the footage.
 - From there I attempted to fake the data moshing effect
 
+# Technologies I used
+- python
+- opencv
+- PIL
+- FFMPEG
 
 # Solution Overview
 1. we process all the user's system arguments
@@ -29,7 +35,6 @@
 5. delete all saved frames from repository to save space (can be enabled with sys arg)
 
 # Technical Deep Dive
-
 How does the datamoshing work?
 1. every n frame save a frame
 2. compare every subsequent frames to that frame. Depending on how similar each pixel in the new frame is to the old frame. Overwrite the new pixel in the new frame if it is similar enough to the saved frame
