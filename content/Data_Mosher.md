@@ -3,11 +3,11 @@ title: Data Mosher
 draft: false
 tags:
     - art
-	- image-processing
-	- FFMPEG
-	- open-cv
-	- python
-	- PIL
+    - image-processing
+    - FFMPEG
+    - open-cv
+    - python
+    - PIL
 ---
 
 # What is Data Moshing?
