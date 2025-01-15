@@ -75,4 +75,4 @@ def resolve_path(path_str: str) -> bool:
 5. implement pytest. I mainly want to use this to test out all the system arguments work consistently. Also to test out that all the cleanup on exit works properly
 ![[videos/screencast_test.mp4]]
 ![[https://miabobia.github.io/content/videos/screencast_test.mp4]]
-![[https://miabobia.github.io/public/static/screencast_test.mp4]]
+![[https://github.com/miabobia/miabobia.github.io/blob/v4/content/videos/screen_cast_test.mp4]]
