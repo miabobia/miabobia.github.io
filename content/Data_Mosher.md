@@ -10,6 +10,8 @@ tags:
     - PIL
 ---
 
+# [Repository](https://github.com/miabobia/data_mosher)
+
 # What is Data Moshing?
 Data Moshing is a video effect that creates a trippy 'glitchy' effect. In very reductive terms, data moshing changes the transition from one video frame to another. Effectively bleeding pixels from one frame to subsequent frames
 ![[https://i.kym-cdn.com/photos/images/newsfeed/000/637/054/8c6.gif]]
