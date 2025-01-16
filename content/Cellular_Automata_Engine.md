@@ -204,8 +204,6 @@ def read_input(self):
     ...
 ```
 
-# Future Plans
-
 # Example Videos
 Here are just a few examples of the automata you can generate with an ExportViewer!
 
