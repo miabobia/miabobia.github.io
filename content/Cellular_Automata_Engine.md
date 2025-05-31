@@ -20,7 +20,7 @@ You've probably heard of [Conway's Game of Life](https://en.wikipedia.org/wiki/C
 
 ![[https://miabobia.github.io/conways_example.gif]]
 
-Conway's Game of Life is actually just one of Cellular Automata that exist! Cellular Automata can have many different rulesets (rules on conditions for cell's to come alive, survive or die). What I made is an engine that can support **any** ruleset for Cellular Automata. It also is setup modularly so the Automata can be rendered in many different ways
+Conway's Game of Life is actually just one of many Cellular Automata that exist! Cellular Automata can have many different rulesets (rules on conditions for cell's to come alive, survive or die). What I made is an engine that can support **any** ruleset for Cellular Automata. It also is setup modularly so the Automata can be rendered in many different ways
 
 # Why?
 This idea has been fully explored by others at this point, but Cellular Automata are something I find very exciting. So, I took this *solved* problem as an opportunity to learn about software design patterns. I ended up writing my engine using three different design patterns:
