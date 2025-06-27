@@ -9,3 +9,8 @@ My name is Olive Abbott I am a software engineer based in Calgary, Alberta, Cana
 - [email](mailto:mia.abbott96@gmail.com)
 - [github](https://github.com/miabobia)
 - [linkedin](https://www.linkedin.com/in/mia-abbott-003132238/)
+
+# Projects
+- [[Cellular_Automata_Engine]]
+- [[Data_Mosher]]
+- [[Bus Tracker]]
