@@ -107,7 +107,7 @@ self.event_dispatch.dispatch(Event("update_pallete", None))
 This approach was fun to implement, but after rubber ducking with a friend I realized it didn't suit my problem. There were only singletons of my components and having them listen and emit to eachother was effectively the same as them all having references to eachother and calling functions on one another. Very fun design pattern to learn about and i'm excited to use it when I have a problem that better suits it :)
 
 # Model View Controller
-Ultimately this approach felt the most sensible to me. My friend Heather and I whiteboarded out a diagram for how I would design this sytem
+Ultimately this approach felt the most sensible to me. My friend Heather and I whiteboarded out a diagram for how I would design this system
 
 ![[system_diagram.png|250]]
 
