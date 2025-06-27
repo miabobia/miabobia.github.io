@@ -39,3 +39,10 @@ The backend is using Django as a framework and is seperating into two apps
 
 ## Frontend
 React based front tend that has map component and consumes rest api from backend
+
+
+# Screenshots
+![[api_index.png|250]]
+![[api_bus.png|250]]
+![[api_trip.png|250]]
+![[api_route.png|250]]
