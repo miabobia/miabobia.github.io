@@ -6,3 +6,4 @@ To research ethnic and cultural data in Alberta I would utilize my talents with 
 This approach sounds complex, but it boils down to very simple scripts. For example:
 ```python
 ```
+
